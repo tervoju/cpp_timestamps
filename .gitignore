@@ -1,0 +1,12 @@
+test_timestamp
+Testing/
+CMakefiles/**
+bin/
+CMakeCache.txt
+*.cmake
+*.tcl
+*.make
+*.log
+a.out
+*.bin
+*.o
